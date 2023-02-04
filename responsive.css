@@ -1,0 +1,23 @@
+@media  screen and (max-width:920px) {
+    
+          .nav-mob {
+            display: block;
+            border: 1px solid;
+          }
+
+        /* .header {
+            position: relative;
+        } */
+        
+        .navbar {
+            width: 100%;
+            width: 100vh;
+            position: absolute;
+            top:0;
+            left: 0;
+
+        }
+
+
+
+}
